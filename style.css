@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: gilroy;
+}
+@font-face {
     font-family: "gilroy";
+    src: url(Gilroy-Light.otf);
 }
 html,body{
     height: 100%;
